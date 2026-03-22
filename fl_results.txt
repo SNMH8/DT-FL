@@ -1,0 +1,38 @@
+FL Server Initialized
+MisbehaviorDetector Initialized
+
+===== ROUND 1 =====
+Starting FL Round...
+Client 0 update: -0.8877
+[WARNING] Client 0 flagged as malicious. Update discarded.
+Client 1 update: 0.3148
+Client 2 update: -0.1419
+Client 3 update: 0.3266
+Client 4 update: 0.1218
+
+New Global Model Value: 0.1553
+System Running Successfully!
+
+===== ROUND 2 =====
+Starting FL Round...
+Client 0 update: 0.4839
+Client 1 update: -0.3479
+Client 2 update: 0.6463
+Client 3 update: 0.228
+Client 4 update: -0.9426
+[WARNING] Client 4 flagged as malicious. Update discarded.
+
+New Global Model Value: 0.2526
+System Running Successfully!
+
+===== ROUND 3 =====
+Starting FL Round...
+Client 0 update: 0.8908
+Client 1 update: 0.1594
+Client 2 update: -0.2873
+Client 3 update: 0.5033
+Client 4 update: -0.8648
+[WARNING] Client 4 flagged as malicious. Update discarded.
+
+New Global Model Value: 0.3165
+System Running Successfully!

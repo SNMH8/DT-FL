@@ -1,0 +1,32 @@
+Loading sample from dataset...
+Data Loaded Successfully!
+Shape: (100000, 20)
+
+Starting Preprocessing...
+Preprocessing Done!
+Train shape: (80000, 18)
+Test shape: (20000, 18)
+Epoch 1/10, Loss: 0.6888
+Epoch 2/10, Loss: 0.6878
+Epoch 3/10, Loss: 0.6874
+Epoch 4/10, Loss: 0.6873
+Epoch 5/10, Loss: 0.6871
+Epoch 6/10, Loss: 0.6870
+Epoch 7/10, Loss: 0.6869
+Epoch 8/10, Loss: 0.6869
+Epoch 9/10, Loss: 0.6867
+Epoch 10/10, Loss: 0.6866
+
+Test Accuracy: 0.54295
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.54      0.97      0.70     10883
+         1.0       0.48      0.03      0.06      9117
+
+    accuracy                           0.54     20000
+   macro avg       0.51      0.50      0.38     20000
+weighted avg       0.52      0.54      0.41     20000
+
+Training Finished!

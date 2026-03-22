@@ -1,0 +1,41 @@
+FL Server Initialized
+MisbehaviorDetector Initialized
+
+===== ROUND 1 =====
+
+Starting FL Round...
+Client 0 update: -0.7147
+Client 1 update: -0.0212
+Client 2 update: -0.3557
+Client 3 update: 0.4561
+Client 4 update: 0.3623
+
+New Global Model Value: -0.0546
+
+System Running Successfully!
+
+===== ROUND 2 =====
+
+Starting FL Round...
+Client 0 update: -0.2836
+Client 1 update: 0.9538
+Client 2 update: 0.2554
+Client 3 update: 0.0142
+Client 4 update: 0.4701
+
+New Global Model Value: 0.282
+
+System Running Successfully!
+
+===== ROUND 3 =====
+
+Starting FL Round...
+Client 0 update: -0.5801
+Client 1 update: 0.0743
+Client 2 update: 0.57
+Client 3 update: 0.801
+Client 4 update: -0.7382
+
+New Global Model Value: 0.0254
+
+System Running Successfully!
